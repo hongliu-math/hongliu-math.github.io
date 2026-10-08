@@ -1,0 +1,612 @@
+[
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2025/08/RT-2025-Revisions-V1.pdf",
+    "path": "assets/4f61bf20-RT-2025-Revisions-V1.pdf",
+    "sha256": "8d474ac31542eff611d5c170477f067adde2041b133bc5e4ce8b278d54730455"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/RT-Mar18-2021.pdf",
+    "path": "assets/61614b24-RT-Mar18-2021.pdf",
+    "sha256": "60d9018b3179bcae60388b3126e64edb5d80e215872bed803d0bad8c97bde94f"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/packing-kissing_v6.pdf",
+    "path": "assets/8995726f-packing-kissing_v6.pdf",
+    "sha256": "abc6fc7de9bcda649acd08ba5231efc6a5ad24e426c1ccc7ddee3ee78ccfa496"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2024/07/Vanishing-Codegree-Turan-merged.pdf",
+    "path": "assets/bf4cabc7-Vanishing-Codegree-Turan-merged.pdf",
+    "sha256": "6d809738092b4d2690dd3d10331aaea1711c2e6535eeb79f1fbe1469eaa0f726"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/oddcycleproblem.pdf",
+    "path": "assets/aa54bb9c-oddcycleproblem.pdf",
+    "sha256": "847b60fffab140122c9195383b286be69f9ee2555fb56e9008f6f4cbc7e2f25f"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/Symm-2020-18Dec.pdf",
+    "path": "assets/8e211c5f-Symm-2020-18Dec.pdf",
+    "sha256": "2a333d0d981615292ce32cee51f0359e646e1546368b73ce43b271f61b94a49b"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/Thomassen_conj-final.pdf",
+    "path": "assets/47901f18-Thomassen_conj-final.pdf",
+    "sha256": "55765c6adc83300facc5a9b2d9df16d8d107c82eb2cf8634fed8ba8f06b98e9e"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/decay-intersection.pdf",
+    "path": "assets/020dcf42-decay-intersection.pdf",
+    "sha256": "7b4cc39e65fc277883bacbce7a2811e338c5b4d6bec8a6d8ebb2dda6f1d495fb"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/frankl-arith-mean1.pdf",
+    "path": "assets/89483c3b-frankl-arith-mean1.pdf",
+    "sha256": "1ae6d3ea745efad6a2526e92b25b10977e8b491aa7592c6f55cfd16ae722b63c"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/Cycle-Ramsey.pdf",
+    "path": "assets/b0147961-Cycle-Ramsey.pdf",
+    "sha256": "25e7de3636e18b8d1d1dfe784df17ad4734b5f4ad75059762988179dcecf7ef6"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/2dim-SF.pdf",
+    "path": "assets/3520a3a3-2dim-SF.pdf",
+    "sha256": "011ed59d34da907a7478196b163f35ae3f3941f9f83c42eff3a8e5368bd2de05"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/poly-Schur-revised.pdf",
+    "path": "assets/ea75a0d7-poly-Schur-revised.pdf",
+    "sha256": "569cf52fa276d686e99ce2f7058af52a15adf28de38f97b7e95d032201e2b097"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/cycle-expander-July4.pdf",
+    "path": "assets/cfd1f02e-cycle-expander-July4.pdf",
+    "sha256": "b773f901e8d9f8fcd64de15f5419991d813fc384ea8d455f0f40f7d0d2082598"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/immersions-Sep04.pdf",
+    "path": "assets/66cf6e0a-immersions-Sep04.pdf",
+    "sha256": "24e498da7fafe2691e07c6c7420d98939d78e163393d8bf560f0c9ae78646224"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/mixing-expander.pdf",
+    "path": "assets/b53d8996-mixing-expander.pdf",
+    "sha256": "fe9863cb276a35b797297ab98b202004eb468b3002deae00a8ec3e84cc37d067"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/primitive-Jun25-final.pdf",
+    "path": "assets/c09bfd3c-primitive-Jun25-final.pdf",
+    "sha256": "6e9a2a9bab8f7d5a7ffa56106cfcc4ad24690b1f9f8f74034457fed693f22c8e"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/Turan_0926_submit.pdf",
+    "path": "assets/77a49788-Turan_0926_submit.pdf",
+    "sha256": "d463dff0536b736a6e5e32db4740933619560513a424c2f73e37405bd65b0b1e"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/SFGP-submitted.pdf",
+    "path": "assets/43f123b3-SFGP-submitted.pdf",
+    "sha256": "05ba1ff46bc2aa732a1cb022c702bba7b01f3189c97ac2a7ef8407628ef1b72e"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/ERsumfree-Sep27-online.pdf",
+    "path": "assets/bfad0554-ERsumfree-Sep27-online.pdf",
+    "sha256": "9fcb361b2006bb5f4a584168e0c8f9dc65e220a108b2e6b9364493b074df64fb"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/triangle-final.pdf",
+    "path": "assets/2fd99158-triangle-final.pdf",
+    "sha256": "b8fccb664c3e602b3664db24aac65e5ef0f31762e06870b178b750d5a894ff61"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/clique-stability-final.pdf",
+    "path": "assets/a265bde4-clique-stability-final.pdf",
+    "sha256": "6bd477506537064b746b1a692fa58c1dd7ed785c44c7129fb9b4ff37527c39a5"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/PurturbDecomp-0723-arXiv.pdf",
+    "path": "assets/79fb7336-PurturbDecomp-0723-arXiv.pdf",
+    "sha256": "2798796419b44a02d2300e3cb53d70b2f4b96a576f1912d773b549a53fc0afed"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/matroid-turan.pdf",
+    "path": "assets/4cc3c94a-matroid-turan.pdf",
+    "sha256": "0d347e0e655ec88c9d688a761eda7641e72b607175257bda4f428ddcbd302372"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/Sidon-0818.pdf",
+    "path": "assets/8833f7cf-Sidon-0818.pdf",
+    "sha256": "5d5adc2b759dc24999bff05e14fd0175d821587e688458412f3a4d2476fcf558"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/NIM-3rd-revision-0710.pdf",
+    "path": "assets/ddbf01af-NIM-3rd-revision-0710.pdf",
+    "sha256": "b03ae99a6c20a59d87799dc6e89104fa288498e964835d1b6f763a38609de2a1"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/BarhoumiAndreani_Koch_Liu_ArithmeticProgressionsInRandomSets_EJPSubmissionRevised.pdf",
+    "path": "assets/b2a04a9a-BarhoumiAndreani_Koch_Liu_ArithmeticProgressionsInRandomSets_EJPSubmissionRevised.pdf",
+    "sha256": "4217712039fc578cd6c89b2185da37c1617acdc7c1b3fb280739f49892eed5ab"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/RT2col-Mar13-ArXiv.pdf",
+    "path": "assets/c843f42e-RT2col-Mar13-ArXiv.pdf",
+    "sha256": "f15096be4df27cfedce51d1a372d7e949330b95fb09b26afe87713f3dee840a9"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/A_degree_sequence_Komlos_theorem_SIAMarxiv.pdf",
+    "path": "assets/bb7e5886-A_degree_sequence_Komlos_theorem_SIAMarxiv.pdf",
+    "sha256": "3b0f631f9d5a534f0ec02da1ce3a258883b5e75f9bb5a227911b0f5108c0ab05"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/Supsat-Int-print.pdf",
+    "path": "assets/06241859-Supsat-Int-print.pdf",
+    "sha256": "625c4507f836c2bb0000a3c9b67928232e29f79aafedb84ba2b9759de27f93c4"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/exactsumfree6.pdf",
+    "path": "assets/93e334ea-exactsumfree6.pdf",
+    "sha256": "9cce274455d33291455efce3daf086680c9541364244452989f2f51741f86781"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/rainbow-final.pdf",
+    "path": "assets/334756a0-rainbow-final.pdf",
+    "sha256": "c377cfa9f7ccd573efb2f020d9762f84f736581d496db341f2a3daad65dba3a3"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/Komlos-revision-arxiv-April16.pdf",
+    "path": "assets/b5293a5f-Komlos-revision-arxiv-April16.pdf",
+    "sha256": "f8050159680a042f95bc8674d367ee9cf82924c5960030e3c186441abc101df6"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/Mader-draft5.pdf",
+    "path": "assets/0cc5a318-Mader-draft5.pdf",
+    "sha256": "f1e4841b6ceb1ee8a062d0dedfb80f96455e43c23f77ff59c5dbbcde3f291b99"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/kAP-arXiv.pdf",
+    "path": "assets/e3a460c9-kAP-arXiv.pdf",
+    "sha256": "f1d4e18d7edb1ecb919c30083ad2dee4c2c36a7b29f33e35e7f808ff7c9d509a"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/exp-subd-Nov7-revised.pdf",
+    "path": "assets/717571ae-exp-subd-Nov7-revised.pdf",
+    "sha256": "d08b36671cbca89f5ec3f06ea182ac89b338653278e57a7fa0665ead16caeaea"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/RT-rev2-May31.pdf",
+    "path": "assets/f174fdad-RT-rev2-May31.pdf",
+    "sha256": "636683865bf348ee7ed6e6858b34e15af15748fa204a0d56e4275e514c44475a"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/Kr-free-BBCLMS-final.pdf",
+    "path": "assets/4112ffb8-Kr-free-BBCLMS-final.pdf",
+    "sha256": "2186588abae751a1b0a386f8d7a9394de3cbac5d724dc828727c0397bca606ad"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/perm-test.pdf",
+    "path": "assets/68dd7771-perm-test.pdf",
+    "sha256": "f85244bb1d4a330ba27838dcf40cd8f7bad9a46e5a4c395bb50840ee93b7a05c"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/sumfree-revision4.pdf",
+    "path": "assets/a48b703a-sumfree-revision4.pdf",
+    "sha256": "bde5181cf5fbf2a3a56ba7d09391e6b9ff2acc7ccba7f5b9c3ebfd4651c9eb3d"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/MTFG.pdf",
+    "path": "assets/3d591e59-MTFG.pdf",
+    "sha256": "121a32f35dcf3210c1f312b796df38b5af621b16bc5e212eabbb1dcacbf559c4"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/C6-revised-final-2.pdf",
+    "path": "assets/e475b5c8-C6-revised-final-2.pdf",
+    "sha256": "9ac992552c29e64a17120d2b82a720fc0eb6b46001a02550e233e34e361d3c3c"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/counting-ekr.pdf",
+    "path": "assets/e9e7bada-counting-ekr.pdf",
+    "sha256": "9d8397c079216353c7e9e70f651ba3b7dd48977c44d24f5d964f8c82f8814492"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/k4sat-revised-final.pdf",
+    "path": "assets/b41b7f8a-k4sat-revised-final.pdf",
+    "sha256": "5a7230cd0b3835d836ad41e8396e37adc49c6781f8b8f2f6255ad4064fe9fcfc"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/multiram.pdf",
+    "path": "assets/6a501b14-multiram.pdf",
+    "sha256": "7e07848eff24751ece9f78abf28972d62ed4106c99047b53e874ae3f3da969f9"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/cube.pdf",
+    "path": "assets/35cd9308-cube.pdf",
+    "sha256": "f0cba76b64942e30bd36395eece03c55bc0c718aabf072d94a7308086d098eef"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/forest.pdf",
+    "path": "assets/a7392d31-forest.pdf",
+    "sha256": "20d1488d45e3f576c51ce694f4158625f1c782770b2a3db4845e40ad97f82982"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/oddcygame.pdf",
+    "path": "assets/2392b7b1-oddcygame.pdf",
+    "sha256": "327233c4ba5e7aa8008393a135cb2dbb888e1211c5acc962792f99dcaf262708"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/exbu.pdf",
+    "path": "assets/81e8eb14-exbu.pdf",
+    "sha256": "e885112eff054186f1cfccd7dc9a53c0255d98e9467f7464513f094636b94b6a"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/01/domset.pdf",
+    "path": "assets/487a6a79-domset.pdf",
+    "sha256": "3c73ba4a193da748d8fddc4492533ab510e60a2e3b05929289ddf226da83f0db"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/SDU2021-Fall.pdf",
+    "path": "assets/744fe406-SDU2021-Fall.pdf",
+    "sha256": "d0b47fe85dac147fffc230583200110918ed304ee654033f219141e29b43c5ee"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall1-tab.pdf",
+    "path": "assets/235577e8-fall1-tab.pdf",
+    "sha256": "a6432ae62be55871aaef8994798e3fda8328fab04638bf73896c420bf2349ec6"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall2-tab.pdf",
+    "path": "assets/cd17b331-fall2-tab.pdf",
+    "sha256": "b29e1e1421beb57e858b7037021a6c34e58967ad37d2a053b13969c45b98a31a"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall3-tab.pdf",
+    "path": "assets/2cc322bd-fall3-tab.pdf",
+    "sha256": "722b6c3d792529da359aafb49c22d341042a31b4e0036800204a5ab6e37c48a7"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall4-tab.pdf",
+    "path": "assets/097b0bdd-fall4-tab.pdf",
+    "sha256": "c50a5b8f370f6037d234abebbf0a946e0631674ebb1d97b5d65eec1e35d4d314"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall5-tab.pdf",
+    "path": "assets/a8944285-fall5-tab.pdf",
+    "sha256": "c7e73474f1b3fb43d766d67028bc37c9937626bcccbe274c39a542417cbecc03"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall6-tab.pdf",
+    "path": "assets/78309056-fall6-tab.pdf",
+    "sha256": "ba625640d9e59e1887d9ab497d7610e0e7caff9e81595558996bd93e1bfaa872"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall7-tab.pdf",
+    "path": "assets/b35540aa-fall7-tab.pdf",
+    "sha256": "303357c56a28cf070c83b7a55ecf90f27a6a48f26fa43049e4ee929d473d0fbd"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall8-tab.pdf",
+    "path": "assets/fc1f5eef-fall8-tab.pdf",
+    "sha256": "fcb66b8b262f3f3f08fbd4f49fb19d55cc824642ae5b26173d31a07730f03c11"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall9-tab.pdf",
+    "path": "assets/1c7beecc-fall9-tab.pdf",
+    "sha256": "790d49f4c85d6d4de4616db262404834c2cb6e92ac09ac9798bafeeeb81776e1"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall11-tab.pdf",
+    "path": "assets/1dac02d1-fall11-tab.pdf",
+    "sha256": "fd8cd9f118a6f73060623059f896143e07b3a123c249362b70f819aeb958753b"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall12-tab.pdf",
+    "path": "assets/0532ebe4-fall12-tab.pdf",
+    "sha256": "711bf1abed28576a38c03cf0702a09b60bb7be08b778bc72b8839f74cdd1fda5"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall13-tab.pdf",
+    "path": "assets/c7526fd5-fall13-tab.pdf",
+    "sha256": "879ffaab432c586b7f457c0476e751ca65bc4456a2a9964434a94c8d724fbb40"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall14-tab.pdf",
+    "path": "assets/6d05e29c-fall14-tab.pdf",
+    "sha256": "659c8f442e05a3ba4b0e4fca9f36eb18c6ac7f4d98b25ea1210d4f3959cfa26a"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall15-tab.pdf",
+    "path": "assets/3407b86c-fall15-tab.pdf",
+    "sha256": "5658dcaa8d9eb5f521d37bfb40b645af92909643ec125bb762d2a87d6454de9e"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall16-tab.pdf",
+    "path": "assets/a198486c-fall16-tab.pdf",
+    "sha256": "613d611c7e56f034ad1be0462de0023e16dc4dc87650793869ce69dc22b6448d"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall17-tab.pdf",
+    "path": "assets/b9c010df-fall17-tab.pdf",
+    "sha256": "eb12fb40331e6821a7b87eff38797e7528bf79ed719a5ffe6733e96c32560b84"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall18-tab.pdf",
+    "path": "assets/c2c501b3-fall18-tab.pdf",
+    "sha256": "7b4cca509dfaa7ee7495c02c77118e10e831ccfe9479b141c01c51055d6388a0"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall20-tab.pdf",
+    "path": "assets/9388b47c-fall20-tab.pdf",
+    "sha256": "70c60e4b3b4b5f32909cd5bb7575ffe282da1ff478e038b37d68c1c315924989"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall22-tab.pdf",
+    "path": "assets/5789c600-fall22-tab.pdf",
+    "sha256": "b0c9c6e13e12f2ae96371770d4f0e70abc1571f571875cbdee3f2a8217586f52"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall23-tab.pdf",
+    "path": "assets/ca2e1fd3-fall23-tab.pdf",
+    "sha256": "d9b357997980a5afefbeef6dce6d8562f5efc263f4276132b73c9af934915790"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall24-tab.pdf",
+    "path": "assets/8fa156d5-fall24-tab.pdf",
+    "sha256": "1a8abdfe9b724aa1d738a19c9b3c0cf6b9be870891ae275f711a8ada4567ffc0"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall25-tab.pdf",
+    "path": "assets/88b3c786-fall25-tab.pdf",
+    "sha256": "ddea556bfef4f5c15976aa33d117d69e182d3eb0b1dea04d77d6d3545a654a0d"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall26-tab.pdf",
+    "path": "assets/a22a592c-fall26-tab.pdf",
+    "sha256": "400a0c2e9089932689c72338e00752d17112bd24330a2894dc3b1372cd271b0c"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall27-tab.pdf",
+    "path": "assets/a97e6e5e-fall27-tab.pdf",
+    "sha256": "be627f76ba80f0102bc7546b135466676a1cbaa8c5105f1d75909b7e33ed33d1"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall28-tab.pdf",
+    "path": "assets/953477ce-fall28-tab.pdf",
+    "sha256": "9675b563bacac2e883854749d9003470acfd176987d311e495265725b7d19296"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall29-tab.pdf",
+    "path": "assets/319cc755-fall29-tab.pdf",
+    "sha256": "3c4a67f680edc6001200296a4d4fed54cd9697c759fb794387d8d1601db98220"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall30-tab.pdf",
+    "path": "assets/065c03ac-fall30-tab.pdf",
+    "sha256": "d8ec03c3b8ee1d137b81836ac7efab6dc2ddfb92a905bce172d743a621b82dfe"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall31-tab.pdf",
+    "path": "assets/e03a21ee-fall31-tab.pdf",
+    "sha256": "3ff932ce21625466ff0098f5bbd012ec38eb32aa34c6f9534d929f21391a4115"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall33-tab.pdf",
+    "path": "assets/277ed29a-fall33-tab.pdf",
+    "sha256": "07ffe3f3f93d84039bd504eb65434d271824066f26a278c0d753af7d384e31f0"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/fall34-tab.pdf",
+    "path": "assets/22256fb1-fall34-tab.pdf",
+    "sha256": "0398b35de18bdb325387dadd04325f415de0e46d7158499607c2e5b04b5b2c9c"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/entropy-SDU2021-summer.pdf",
+    "path": "assets/b086a71a-entropy-SDU2021-summer.pdf",
+    "sha256": "c5d3e8da7ce37f36925dcdbbd66261a4b64d82c80e8774529efa1d4c3582b405"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/entropy1-tab.pdf",
+    "path": "assets/682b1031-entropy1-tab.pdf",
+    "sha256": "214aa7e5b0e5f22bdc85160830966400a2ce9dd7f14831a2e973dfc33f37986b"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/entropy2-tab.pdf",
+    "path": "assets/c7d573bb-entropy2-tab.pdf",
+    "sha256": "141fbdcf20ae240ef74799f0a5c38179b7c5e9d4529e29d2f96c33dc6a40cf30"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2024/10/entropy3-tab.pdf",
+    "path": "assets/c342d4db-entropy3-tab.pdf",
+    "sha256": "49e06c959ec763b67113a364f9632d74ba86892db47f0071b4a1900a16b4c572"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/entropy4-tab.pdf",
+    "path": "assets/00919840-entropy4-tab.pdf",
+    "sha256": "91645f215c2e87418edb24f57e5e8977f96ed0dfa30fbe0ac7c887db7b59028d"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/entropy5-tab.pdf",
+    "path": "assets/cd6f0f15-entropy5-tab.pdf",
+    "sha256": "15f89d2adb88b0a695b021282d1b45be709e5a41b827b65e4e753f5e4d0c8c12"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2024/10/entropy6-tab.pdf",
+    "path": "assets/74066331-entropy6-tab.pdf",
+    "sha256": "5c1145ed634ce2dd2ac7443939c62e947e938923ed97195949fe88a0d9b8982d"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/entropy7-tab.pdf",
+    "path": "assets/c988cae7-entropy7-tab.pdf",
+    "sha256": "9555fb1a87c794f57f0c767f622d714e48ffd1ca2d26d27180b541889df7bb63"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture1-tab.pdf",
+    "path": "assets/1f0ad55b-lecture1-tab.pdf",
+    "sha256": "b5dd7fe60d65a2043d33736cc8fc09bae4839b32fc0f32d48b1918605dad3672"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture1.pdf",
+    "path": "assets/1fad05a6-topic-comb-lecture1.pdf",
+    "sha256": "f18f8061334b19e610edec713d7e10e0c1e439ae4b117e057e83f3785cb55bc7"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture2-tab.pdf",
+    "path": "assets/7a6f6295-lecture2-tab.pdf",
+    "sha256": "8b0f8a9fe17be6c008f48771982b904c654744fbf454f4db152045993984edf4"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture2.pdf",
+    "path": "assets/961155da-topic-comb-lecture2.pdf",
+    "sha256": "ff0561c9db0899d2dabbad8a39c242f4e27c128870d5529b34e2a464272ad999"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture3-tab.pdf",
+    "path": "assets/24f873c4-lecture3-tab.pdf",
+    "sha256": "b3755b2236a944707e722168a2b7e20ebae53af31707c32e6fdcbcd3cfb5dadb"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture3.pdf",
+    "path": "assets/0193689f-topic-comb-lecture3.pdf",
+    "sha256": "e8ccb0fa51d77c54feb752adab3b523ae98042a3028008bb5112f6af94864f1f"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture4-tab.pdf",
+    "path": "assets/a288a011-lecture4-tab.pdf",
+    "sha256": "fdc12bcfbecf9d1052d888eac00233e60017e11afb578262b704ca1d48d7ea1e"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture4.pdf",
+    "path": "assets/7e391eee-topic-comb-lecture4.pdf",
+    "sha256": "b0e8a92b13b3b6a6ac3fd1f739200945babeb549eff8c9cbc2d2ecb8cac0912d"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture5-tab.pdf",
+    "path": "assets/ba8a7faf-lecture5-tab.pdf",
+    "sha256": "86b37c7cbb193031dcbad0caae5d52da8f35293e8b520386e7ba5a22030edb13"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture5.pdf",
+    "path": "assets/589d8a3a-topic-comb-lecture5.pdf",
+    "sha256": "ddc0dd46b4e3e35581639eef017b79a4173dd27c725a48b37c603b1f53d852aa"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture6-tab.pdf",
+    "path": "assets/604c5a86-lecture6-tab.pdf",
+    "sha256": "4b9ee47c5b5a0cd5fd56e637c7660bd03010ec718ebb3c23fc7d8cfd1a9fed7d"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture6.pdf",
+    "path": "assets/add8337e-topic-comb-lecture6.pdf",
+    "sha256": "0bba08b8aaf3555a9d18bceed6a1843a21810c25a37de50532b41a41a449e4ec"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture7-tab.pdf",
+    "path": "assets/0ebe0acb-lecture7-tab.pdf",
+    "sha256": "47d0cb736400ee68638685dc35d8f770662917ef765693f873de82fe928e0b3e"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture7.pdf",
+    "path": "assets/8b922232-topic-comb-lecture7.pdf",
+    "sha256": "a5d1fbaae463adfa486f4b98587deb5995358dd807d2605fba7304978f648748"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture8-tab.pdf",
+    "path": "assets/65724089-lecture8-tab.pdf",
+    "sha256": "553e22a6b7a5c122e0fe4583e65e0501300207658f22b25bf7a6d2f58a3c2b69"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture8.pdf",
+    "path": "assets/2149eec4-topic-comb-lecture8.pdf",
+    "sha256": "67f605af58174833b16f9292fc6a1c319ba23f4713ff5437667e4f236c053d0b"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture9-tab.pdf",
+    "path": "assets/37c4f936-lecture9-tab.pdf",
+    "sha256": "ddf2858531a5bcaca3bff2b923075dd4729f8db77e60c3b9dc1d8900fb87ee5c"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture9.pdf",
+    "path": "assets/6e8c8ec6-topic-comb-lecture9.pdf",
+    "sha256": "f999c7acabbf497b5f795ebc1d64d31ee813790f4bd022cbf8bf5c34d50529c9"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture10-tab.pdf",
+    "path": "assets/d33f8571-lecture10-tab.pdf",
+    "sha256": "56b96d4833ecf9ea415e501b09d7cab02d99eebbb827319b407ef2e21886d88a"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture10.pdf",
+    "path": "assets/a6941fb7-topic-comb-lecture10.pdf",
+    "sha256": "7ac9e89b153839ef084f691c786e63e3fec2835d37889477ead3ab84cd1cca65"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture11-tab.pdf",
+    "path": "assets/af3c4c99-lecture11-tab.pdf",
+    "sha256": "42c95f239f4bae5620bd1885a150904414d8b31ed1831a0b18f003a8df6b308b"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture11.pdf",
+    "path": "assets/8f9b5a0a-topic-comb-lecture11.pdf",
+    "sha256": "2e756f644af1d152ed2d68e6b09b11442bb8afa13a6f8b92dbc4b8db2d67e3c5"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture12-tab.pdf",
+    "path": "assets/51e9b241-lecture12-tab.pdf",
+    "sha256": "57abf3efabcf828d8904e049795bdec2134f23d3fb901bc218419a8689590544"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture12.pdf",
+    "path": "assets/f8cec350-topic-comb-lecture12.pdf",
+    "sha256": "723227631997346c8b56bfbaaa9f15ec923fc31f85266fb1071c5a06c2e5e792"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture13-tab.pdf",
+    "path": "assets/90c7ceb9-lecture13-tab.pdf",
+    "sha256": "f5e222eb9176a517b8bdd2c50c42df771ae043dbcc915705e62045be46436f56"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture13.pdf",
+    "path": "assets/2a17eb35-topic-comb-lecture13.pdf",
+    "sha256": "9a61a3bf76cb8ba54145d436cc608d197847ddf7cf461364a7a0fff32598be4e"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture14-tab.pdf",
+    "path": "assets/5fc9f839-lecture14-tab.pdf",
+    "sha256": "91587e12a0114c89ca407607835987010683d1a6a9e8105f746f5115ef0a407d"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture15-tab.pdf",
+    "path": "assets/82d54e19-lecture15-tab.pdf",
+    "sha256": "bd33855bd06287ceacac4469322ee07ebac8d13e9bdd150b9b457f9229480aa2"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture15.pdf",
+    "path": "assets/5cda1b45-topic-comb-lecture15.pdf",
+    "sha256": "a11c56ffbf47ee7556cee8d7eddb2d45eff4de9b2deec1e74c2851406facbe3a"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/lecture16-tab.pdf",
+    "path": "assets/2d82f3e2-lecture16-tab.pdf",
+    "sha256": "fdc0f2bb169144d6d5804b265ba5e30a7e73f494ef8be08a967618b70a737d95"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/topic-comb-lecture16.pdf",
+    "path": "assets/ecc88e88-topic-comb-lecture16.pdf",
+    "sha256": "1c54b83fb96daf70145147440d8c487280f5d1b12c3c0c67997f4298037b50f1"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/sublinear-expander-note-July16.pdf",
+    "path": "assets/dcce316c-sublinear-expander-note-July16.pdf",
+    "sha256": "7d66c8c1ca201af24a31d9d159b9caecee703fd774b2155895c19ce9e85b3194"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/wp-content/uploads/2022/03/cycles-trees-Oct17.pdf",
+    "path": "assets/842afe78-cycles-trees-Oct17.pdf",
+    "sha256": "496c82af97782a2bc91cb74d36596bcba311afb49b722a594c8f2a189503e65a"
+  },
+  {
+    "url": "https://www.ibs.re.kr/ecopro/hongliu/wp-content/uploads/sites/3/2022/03/IMG_8164-scaled-e1648732859455-1024x934.jpg",
+    "path": "assets/hong-liu.jpg",
+    "sha256": "146152d65fc7cf751b657f35ddc3cb39a94b0a41c7c067c661839d904245d276"
+  }
+]
