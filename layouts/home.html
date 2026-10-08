@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main id="main" class="layout home">
+  <article>
+    <div class="identity">
+      <p class="eyebrow">MATHEMATICIAN</p>
+      <h1>{{ site.Params.name }} <span lang="zh">{{ site.Params.chineseName }}</span></h1>
+      <p class="affiliation">{{ site.Params.affiliation }}</p>
+    </div>
+    <div class="prose">{{ .Content }}</div>
+  </article>
+  {{ partial "profile.html" . }}
+</main>
+{{ end }}

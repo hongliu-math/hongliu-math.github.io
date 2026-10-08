@@ -1,0 +1,87 @@
++++
+title = 'Talks'
++++
+
+- 2025 plenary talk at EUROCOMB, Hungary, Aug 2025
+- 2025 ICBS International Congress of Basic Science, China, Jul 2025
+- 2024 9th European Congress of Mathematics, Spain, Jul 2024
+- 2024 SoCG Symposium on Computational Geometry, Greece, Jun 2024
+- 2022 annual spring meeting of the Korean Mathematical Society, Apr 2022
+- Combinatorics Seminar @ Georgia Institute of Technology, USA, Apr 2022
+- Combinatorics Seminar @ Umeå universitet, Sweden,   Feb 2022
+- Combinatorics Seminar @ Koc University, Turkey,   Feb 2022
+- IBS Combinatorics Workshop @ Yangpyeong, Dec 2021 **[VIDEO](https://youtu.be/_5uuIwHgcRQ)**
+- Combinatorics Seminar @ Konkuk University, South Korea,   Nov 2021
+- Combinatorics seminar @ Graz University of Technology, Sep 2021
+- Minisymposium @ 8th European Congress of Mathematics, Jun 2021
+- Seminar @ Freie Universitat Berlin, Germany, May 2021
+- Colloquium @ KAIST, South Korea,   May 2021
+- Korean Mathematical Society 2021 Spring meeting, South Korea,   Apr 2021
+- Extremal and Probabilistic Combinatorics Webinar, Feb 2021
+- SCMS Combinatorics Seminar @ Shanghai Center for Mathematical Sciences, China,  Jan 2021
+- Combinatorics Seminar @ University of Warwick, UK,   Dec 2020
+- Combinatorics Seminar @ Institute for Basic Science, South Korea,   Dec 2020 [**VIDEO**](https://youtu.be/II31f8keLRM)
+- Colloquium @ University of Warwick, UK,   Oct 2020
+- Mini-course on topics in probabilistic combinatorics @ KAIST, South Korea,   Oct 2020 [**VIDEO**](https://youtu.be/fF3ize-IOHA)
+- Summer Course @ Shandong University, China,   Aug 2020     [**VIDEO**](https://www.bilibili.com/video/BV1tA411v7pz)
+- Combinatorics Literature Seminar @ University of Illinois at Urbana Champaign, USA,   Jul 2020
+- Lectures at SCMS Combinatorics Seminar @ Shanghai Center for Mathematical Sciences, China,   May 2020    [**VIDEO**](https://space.bilibili.com/556006423/channel/seriesdetail?sid=689035&ctype=0)
+- Combinatorics Seminar @ Institute for Basic Science, South Korea,   May 2020    [**VIDEO**](https://youtu.be/LrD0dVSgqPI)
+- Combinatorics Seminar @ KAIST, South Korea,   Dec 2019
+- Combinatorics Seminar @ Institute for Basic Science, South Korea,   Aug 2019   [**VIDEO**](https://youtu.be/3fMZNPQkA8w)
+- Summer Course @ Shandong University, China,   Aug 2019    [**VIDEO**](https://www.bilibili.com/video/av68819815/?p=2)
+- Combinatorics Seminar @ Capital Normal University, China,   Jul 2019
+- Combinatorics Seminar @ Konkuk University, South Korea,   Jul 2019
+- Combinatorics and topology Seminar @ Universidad de Buenos Aires, Argentina,   Apr 2019
+- Combinatorics Seminar @ Ewha Womans University, South Korea,   Mar 2019
+- International Workshop on Graph Theory @ Ewha Womans University, South Korea,   Jan 2019
+- Combinatorics Seminar @ Institute for Basic Science, South Korea,   Dec 2018
+- Combinatorics Seminar @ Shandong University, China,   Dec 2018
+- Combinatorics Seminar @ University of Birmingham, UK,   Oct 2018
+- Combinatorics Seminar @ Nankai University, China,   Sep 2018
+- Combinatorics Seminar @ Zhejiang Normal University, China,   Sep 2018
+- Combinatorics Seminar @ Busan National University, South Korea,   Sep 2018
+- Combinatorics Seminar @ KAIST, South Korea,   Sep 2018   [**VIDEO**](https://www.youtube.com/watch?v=sNAE-MV_Qkg)
+- Summer Course @ Shandong University, China,   Jul 2018
+- Combinatorics Seminar @ Fuzhou University, China,   Jul 2018
+- Combinatorics Seminar @ KAIST, South Korea,   Apr 2018   [**VIDEO**](https://www.youtube.com/watch?v=LUOYzYFd8bc)
+- Combinatorics Seminar @ Duksung Women’s University, South Korea,   Apr 2018   Combinatorics Seminar @ Incheon National University, South Korea,   Apr 2018
+- Combinatorics Seminar @ Ajou University, South Korea,   Apr 2018
+- Combinatorics Seminar @ Shandong University, China,   Mar 2018
+- International Workshop on Graph Theory @ Ewha Womans University, South Korea,   Jan 2018
+- Combinatorics Seminar @ KAIST, South Korea,   Dec 2017  [**VIDEO**](https://www.youtube.com/watch?v=Wr8Op1rhCbo&list=PLozsKzpYVLXuKeXLbTLOlYXFdbssIn8gK&t=2496s&index=1)
+- Combinatorics Seminar @ Fuzhou University, China,   Dec 2017
+- Combinatorics Seminar @ Koc University, Turkey,   Dec 2017
+- Extremal Combinatorics Conference @ University of Warwick, UK,   Sep 2017
+- Combinatorics Seminar @ Freie Universitat Berlin, Germany,   Apr 2017
+- Berlin-Poznan seminar on Discrete Mathematics @ Hamburg, Germany,   Apr 2017
+- Combinatorics Seminar @ University of Warwick, UK,   Mar 2017
+- Combinatorics Seminar @ Fuzhou University, China,   Jan 2017
+- Combinatorics Seminar @ Korea Institute for Advanced Study, South Korea,   Dec 2016
+- Combinatorics Seminar @ University of Science and Technology of China, China,   Dec 2016
+- Combinatorics Seminar @ Sharif University of Technology, Iran,   Sep 2016
+- Combinatorics Seminar @ Institute for Research in Fundamental Sciences, Isfahan, Iran,   Sep 2016
+- Bristol-Oxford Additive Combinatorics meeting @ University of Oxford, UK,   July 2016
+- Combinatorics Seminar @ Institute for Research in Fundamental Sciences, Tehran, Iran,   Jun 2016
+- Combinatorics Seminar @ Czech Academy of Sciences, Czech Republic,   Apr 2016
+- British Mathematical Colloquium @ University of Bristol, UK,   Mar 2016
+- Combinatorics Seminar @ University of Warwick, UK,   Feb 2016
+- AMS meeting @ Loyola University Chicago, USA,   Oct 2015
+- Combinatorics Seminar @ University of Birmingham, UK,   Jul 2015
+- Random Structure and Algorithm @ Carnegie Mellon University, USA,   Jul 2015
+- AMS meeting @ University of Nevada, USA,   Apr 2015
+- Combinatorics Seminar @ Iowa State University, USA,   Mar 2015
+- AMS meeting @ Michigan State University, USA,   Mar 2015
+- Combinatorics Seminar @ University of Szeged, Hungary,   Jul 2014
+- SUMMIT 240 @ Budapest, Hungary,   Jul 2014
+- Combinatorics Seminar @ ETH, Switzerland,   Jun 2014
+- SZTE-Novi Sad workshop @ University of Szeged, Hungary,   Mar 2014
+- Combinatorics Seminar @ University of Szeged, Hungary,   Feb 2014
+- AMS meeting @ University of Louisville,  USA,   Oct 2013 **[VIDEO-1](https://www.youtube.com/watch?v=JOOBW_Q0-Pk&index=3&list=PLozsKzpYVLXuKeXLbTLOlYXFdbssIn8gK)   [VIDEO-2](https://www.youtube.com/watch?v=Co2Qf87gmIk&index=4&list=PLozsKzpYVLXuKeXLbTLOlYXFdbssIn8gK)**
+- Combinatorics Seminar @ University of Illinois at Urbana Champaign, USA,   Aug 2013
+- Combinatorics Seminar @ University of Illinois at Urbana Champaign, USA,   Oct 2012
+- Midwest Graph Theory Conference @ Iowa, USA,   Sep 2012
+- Cumberland Conference @ Tennessee, USA,   May 2012
+- Graduate Student Combinatorics Conference @ University of Illinois at Urbana Champaign, USA,   Apr 2012
+- Graduate Student Combinatorics Conference @ PennState, USA,   Apr 2011
+- Midwest Graph Theory Conference @ Detroit, USA,   Apr 2010

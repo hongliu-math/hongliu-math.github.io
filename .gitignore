@@ -2,3 +2,6 @@ __pycache__/
 .DS_Store
 .sites-runtime/
 _site/
+public/
+resources/
+.hugo_build.lock

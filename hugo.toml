@@ -1,0 +1,42 @@
+baseURL = 'https://hongliu-math.github.io/'
+locale = 'en'
+title = 'Hong Liu 刘鸿'
+disableKinds = ['taxonomy', 'term', 'RSS']
+
+[params]
+  description = 'Hong Liu, mathematician at the Institute for Basic Science. Research, publications, students, talks, and teaching in combinatorics.'
+  name = 'Hong Liu'
+  chineseName = '刘鸿'
+  email = 'hongliu@ibs.re.kr'
+  affiliation = 'Institute for Basic Science · ECOPRO'
+  groupURL = 'https://www.ibs.re.kr/ecopro/'
+
+[[menus.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+[[menus.main]]
+  name = 'Coauthors'
+  pageRef = '/coauthors'
+  weight = 20
+[[menus.main]]
+  name = 'Publications'
+  pageRef = '/publications'
+  weight = 30
+[[menus.main]]
+  name = 'Students & Postdocs'
+  pageRef = '/students-postdocs'
+  weight = 40
+[[menus.main]]
+  name = 'Talks'
+  pageRef = '/talks'
+  weight = 50
+[[menus.main]]
+  name = 'Teaching'
+  pageRef = '/teaching'
+  weight = 60
+
+[markup.goldmark.renderer]
+  unsafe = false
+[markup.goldmark.extensions.typographer]
+  disableDefault = true

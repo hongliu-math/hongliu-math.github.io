@@ -1,0 +1,12 @@
+{{ define "main" }}
+<main id="main" class="layout">
+  <article>
+    <div class="page-heading">
+      <p class="eyebrow">HONG LIU · MATHEMATICS</p>
+      <h1>{{ .Title }}</h1>
+    </div>
+    <div class="prose">{{ .Content }}</div>
+  </article>
+  {{ partial "profile.html" . }}
+</main>
+{{ end }}
