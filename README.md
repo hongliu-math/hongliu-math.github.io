@@ -35,7 +35,7 @@ Shared typography and colors are in `static/style.css`. Layouts are in `layouts/
 
 ## Papers, lecture notes, and portrait
 
-122 public assets (about 377 MB) were copied locally into `static/assets/`. The website serves these at its own `/assets/` URLs. The first Hugo workflow restores missing assets from `assets-manifest.json`, verifies their SHA-256 digests, and commits them to `static/assets/`. Subsequent builds use those archived files and do not need to contact IBS. Python is used only for this asset-restoration and verification step.
+122 public assets (about 377 MB) were copied locally into `static/assets/`. The website serves these at its own `/assets/` URLs. The first Hugo workflow restores missing assets using the copies already published on GitHub Pages, with IBS as a fallback, verifies their SHA-256 digests, and commits them to `static/assets/`. Subsequent builds use those archived files and do not need to contact IBS. Python is used only for this asset-restoration and verification step.
 
 Five lecture PDFs already returned HTTP 404 on the original website. Their original links are retained: `fall10-tab.pdf`, `fall19-tab.pdf`, `fall21-tab.pdf`, `fall32-tab.pdf`, and `topic-comb-lecture14.pdf`. Replace them when copies become available.
 
