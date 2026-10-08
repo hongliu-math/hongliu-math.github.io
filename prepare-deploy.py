@@ -18,7 +18,7 @@ def restore(entry):
     if local.exists():
         shutil.copy2(local, dest)
     else:
-        subprocess.run(['curl', '-L', '--fail', '--silent', '--show-error', '--retry', '3', '--max-time', '120', entry['url'], '-o', str(dest)], check=True)
+        subprocess.run(['curl', '-L', '--fail', '--silent', '--show-error', '--retry', '5', '--retry-all-errors', '--connect-timeout', '20', '--max-time', '120', entry['url'], '-o', str(dest)], check=True)
     if hashlib.sha256(dest.read_bytes()).hexdigest() != entry['sha256']:
         raise RuntimeError('Source asset has changed: ' + entry['url'])
 with ThreadPoolExecutor(max_workers=8) as pool:
